@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  height: 14.5rem;
+  width: 26rem;
+  background-color: #4b0707;
+  margin: 2rem 0px 0px 30rem;
+  border: 10px outset red;
+}
+
+.container h1{
+  text-align: center;
+  color:white;
+}
+.inp{
+  height: 1.7rem;
+  width: 13rem;
+  margin: 0px 0px 0px 10px;
+  padding: 0px 0px 0px 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.lb{
+  margin: 0px 0px 0px 11px;
+  font-size: 1.6rem;
+  color: white;
+}
+
+#box2{
+
+  margin: 5px 0px 0px 0px;
+}
+
+#inp2{
+  margin: 0px 0px 0px 36px;
+}
+
+.container button{
+  margin: 1.3rem 0px 0px 10rem;
+  height: 2.7rem;
+  width: 6.5rem;
+  font-family: serif;
+  font-size: 1.3rem;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+h2{
+  text-align: center;
+}
